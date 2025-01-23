@@ -1,7 +1,12 @@
 body {
-    margin: 0px;
     font-family: "Kanit", sans-serif;
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
 }
+
 *{
   font-family: "Kanit", sans-serif;
 
@@ -110,7 +115,6 @@ a {
 }
 .page-3 .absolute{
   position: relative;
-  overflow: visible;
 }
 .page-3 .absolute img.topleft {
   width: 250px;
