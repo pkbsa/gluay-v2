@@ -62,7 +62,7 @@ a {
 
 .page-1 {
     background-color: #EBE3CC;
-    background-image: url('/assets/images/home/tom-removebg.png');
+    background-image: url('./assets/images/home/tom-removebg.png');
     background-position: right;
     background-size: contain, cover;
     background-repeat: no-repeat;
